@@ -1,0 +1,6 @@
+{
+  "name": "Infinity PDF",
+  "description": "A powerful all-in-one PDF application for compressing, merging, converting, editing, scanning, organizing, signing, protecting, and managing PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
